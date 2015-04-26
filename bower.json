@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+        "jquery": ">= 1.4.2"
+    },
+    "ignore": [
+        "**/*.txt",
+        "README.mdown"
+    ],
+    "main": [
+        "jquery.flexslider.js",
+        "flexslider.css"
+    ],
+    "name": "flexslider",
+    "version": "2.4.0"
+}
